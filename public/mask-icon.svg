@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AccessLoom">
+  <rect width="512" height="512" rx="96" fill="#f2a65a"/>
+  <path d="M136 128v256M376 128v256" stroke="#173f38" stroke-width="40" stroke-linecap="round"/>
+  <path d="M144 184c56 0 72 144 144 144 40 0 56-40 80-72M144 328c56 0 72-144 144-144 40 0 56 40 80 72" fill="none" stroke="#173f38" stroke-width="40" stroke-linecap="round"/>
+</svg>

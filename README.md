@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 # AccessLoom
 
 > Work should fit humans.
@@ -240,3 +242,5 @@ By contributing, you agree that your contribution is available under that same
 license. The network-use source provision is intentional: people interacting
 with a modified hosted version should be able to obtain its corresponding
 source.
+
+<p align="right"><a href="#readme-top">back to top</a></p>

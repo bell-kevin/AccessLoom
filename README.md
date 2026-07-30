@@ -4,6 +4,8 @@
 
 > Work should fit humans.
 
+https://accessloom.org 
+
 AccessLoom is a private, local-first workplace-support lab and access-passport
 builder. It helps a person notice friction, try a small practical support,
 observe what changes, track follow-through, and share only the conclusions they

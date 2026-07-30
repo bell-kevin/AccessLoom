@@ -1,0 +1,57 @@
+@media print {
+  @page {
+    size: A4;
+    margin: 11mm;
+  }
+
+  html,
+  body {
+    background: #fff !important;
+  }
+
+  body * {
+    visibility: hidden;
+  }
+
+  .passport-document,
+  .passport-document * {
+    visibility: visible;
+  }
+
+  .passport-document {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 8mm !important;
+    border-top-width: 5px !important;
+    background: #fff !important;
+    box-shadow: none !important;
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+
+  .passport-document > header h2 {
+    font-size: 34pt !important;
+  }
+
+  .passport-document > section,
+  .passport-columns {
+    break-inside: avoid;
+    padding: 5mm 0 !important;
+  }
+
+  .passport-adjustments > div {
+    break-inside: avoid;
+  }
+
+  .passport-document > footer {
+    margin: 4mm -8mm -8mm !important;
+    padding: 4mm 8mm !important;
+  }
+
+  .passport-document > footer span {
+    white-space: nowrap;
+  }
+}
